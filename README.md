@@ -2,6 +2,8 @@
 
 Ushbu repository'da LeetCode platformasida yechgan masalalarim to'plami.
 
+- GitHub: [abdum0min/leetcode-solutions](https://github.com/abdum0min/leetcode-solutions)
+
 ## Kategoriyalar
 
 ### Arrays & Strings
@@ -44,7 +46,7 @@ Ushbu repository'da LeetCode platformasida yechgan masalalarim to'plami.
 
 | Kategoriya | Yechilgan |
 |---|---|
-| Arrays | 3 |
+| Arrays | 5 |
 | Strings | 2 |
 | Hash Map | 2 |
 | Two Pointers | 0 |
@@ -70,4 +72,4 @@ Ushbu repository'da LeetCode platformasida yechgan masalalarim to'plami.
 | Intervals | 0 |
 | Matrix | 0 |
 | Design | 0 |
-| **Jami** | **13** |
+| **Jami** | **15** |
